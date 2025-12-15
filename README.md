@@ -3,8 +3,8 @@
 A robust, console-based utility implemented in C for managing and tracking student records, grades, and academic performance. This project serves as an excellent demonstration of intermediate C concepts, including dynamic data organization using Arrays of Structs, modular programming across multiple files, and essential data persistence using File I/O.
 
 ## 🚀 Live Preview
-*(Replace the image path below with the path to your actual screenshot after uploading it to the repository.)*
-![Student-Grading-System.](assets/grading_system_preview.png)
+
+![Student-Grading-System.](/assets/grading_system_preview.jpg)
 
 ***
 
